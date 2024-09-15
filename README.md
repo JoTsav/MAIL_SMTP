@@ -10,6 +10,8 @@ Real-time status updates during email sending process
 Clone the repository and import the project into your preferred Java IDE.
 Run the 'Main.java' class to launch the application.
 Fill in the required email details and click the "Send" button to send an email.
+![Screenshot 2024-09-15 002223](https://github.com/user-attachments/assets/411085af-bc86-4ff0-9afa-2859060dee3e)
+
 
 ## Technical Details
 The application uses a custom 'ClientSMTP.java' class to handle email sending using SMTP protocol.
